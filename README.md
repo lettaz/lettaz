@@ -1,8 +1,32 @@
-# 💫 About Me:
-👋 Hi, I’m @lettaz, officially Melody Amaizu<br>👀 I’m interested in softwares and it's development processes<br>🌱 I’m currently learning developers operations, which includes github action, portainers, server mgt, docker and more.<br>🌱 I hosted a fullstack development bootcamp, where i trained up to 800 plus registered participants and introduced them into tech.<br>💞️ I’m looking to collaborate on open source project and impact driven projects.<br>🌱 I'm experienced in Python(Django and DRF), Angular, SvelteJS, NodeJs(Express), PHP(Laravel), Java(Spring)<br>📫 How to reach me on my website https://amaizumelody.com
+# 💫 About Me
+👋 Hi, I’m **Melody Amaizu (@lettaz)** — an **Artificial Intelligence Engineer** and **Full-Stack Developer** passionate about building intelligent, human-centered systems.  
+💡 I love exploring how **AI and software engineering** intersect to create meaningful, data-driven applications that solve real-world problems.  
+🧠 My focus areas include **LLMs**, **Retrieval-Augmented Generation (RAG)**, **recommendation systems**, and **AI-powered interactive platforms**.  
+🎓 I hold a strong foundation in **Machine Learning, Software Evolution, and Human-AI Interaction**, combining technical depth with creative problem-solving.  
+🌱 I’m continuously learning — diving deeper into **DevOps practices**, **prompt engineering**, and **generative AI** to push the limits of modern systems.  
+💞️ I enjoy collaborating on **open-source** and **impact-driven projects** in AI, education tech, and digital innovation.  
+🌐 Learn more about my work and projects at [https://amaizumelody.com](https://amaizumelody.com).  
 
+---
 
-## 🌐 Socials:
+## 🧩 What I Do
+- 🧠 Design and prototype **AI-driven applications** using **Python, FastAPI, and LangChain**  
+- 🔍 Build **data pipelines** and **machine learning models** for analysis, personalization, and automation  
+- 🕹️ Develop **interactive, intelligent interfaces** using **Angular, React, Node.js, and Spring Boot**  
+- ⚙️ Create **efficient, modular backend systems** with REST APIs, containerized deployments, and test-driven development  
+- 🎨 Combine **UX thinking** with **technical design** to craft smooth and engaging user experiences  
+
+---
+
+## 🏆 Highlights
+- 🥇 **Winner:** AI for Connectivity Hackathon (UNICEF GIGA, 2025)  
+- 🧩 **Case Winner:** START Hack, UniSG (2025)  
+- 🚀 **Projects:** BizQuery 2.0 (AI Management Platform), AI Trivia Game, and Personality-Based Recommender System  and more
+- 📘 **Focus Areas:** Generative AI, Software Evolution, Privacy in RAG pipelines  and Feedback-Driven Development  
+
+---
+
+## 📫 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/amaizu-melody-6ab91b12a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@buildwithmel5486?si=uVJI6SctYQJEyhro) 
 
 # 💻 Tech Stack:
