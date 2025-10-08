@@ -9,12 +9,13 @@
 
 ---
 
-## 🧩 What I Do
-- 🧠 Design and prototype **AI-driven applications** using **Python, FastAPI, and LangChain**  
-- 🔍 Build **data pipelines** and **machine learning models** for analysis, personalization, and automation  
-- 🕹️ Develop **interactive, intelligent interfaces** using **Angular, React, Node.js, and Spring Boot**  
-- ⚙️ Create **efficient, modular backend systems** with REST APIs, containerized deployments, and test-driven development  
-- 🎨 Combine **UX thinking** with **technical design** to craft smooth and engaging user experiences  
+# 🧩 What I Do
+- 🧠 Design and prototype **AI-driven platforms** using **Python (FastAPI, LangChain, Streamlit)** and **JavaScript frameworks (Node.js, Fastify, Express.js)** — from concept to production-ready prototypes  
+- 🧩 Architect **LLM-powered systems** and **Retrieval-Augmented Generation (RAG)** workflows using **LangChain**, **ChromaDB**, **Pinecone**, **Weaviate**, and **Supabase** for intelligent data retrieval and context-aware responses  
+- 🔍 Build **data pipelines** and **machine learning models** for analysis, personalization, and automation using **scikit-learn**, **PyTorch**, and **Pandas**  
+- 🕹️ Develop **interactive, intelligent interfaces** with **Angular**, **React**, and **Spring Boot**, integrating real-time data and generative AI capabilities  
+- ⚙️ Create **efficient, modular backend systems** leveraging **Supabase**, **PostgreSQL**, **BullMQ**, and **REST APIs**, with containerized deployments and test-driven development  
+- 🎨 Combine **UX thinking** with **technical design** using **Figma** and **rapid prototyping workflows** to craft smooth, engaging user experiences   
 
 ---
 
